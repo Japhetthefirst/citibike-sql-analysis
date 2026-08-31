@@ -66,12 +66,12 @@ We set logical limits. We choose what data we will look at and what data we will
 
     **Short or Long Rides**
 
-    | duration_category | trip_count | percentage | min_minutes | max_minutes | avg_minutes | median_minutes | p95_minutes | p99_minutes |
-    | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-    | `Short (1-2 min)` | 107475 | 2.78 | 1.00 | 2.00 | 1.58 | 1.61 | 1.97 | 1.99 |
-    | `Normal (2-120 min)` | 3744745 | 97.00 | 2.00 | 119.99 | 12.51 | 9.23 | 32.81 | 55.13 |
-    | `Long (2-24 hrs)` | 7385 | 0.19 | 120.00 | 1439.30 | 290.02 | 193.51 | 814.47 | 1262.14 |
-    | `Very Long (> 24 hr)` | 766 | 0.02 | 1441.06 | 1500.92 | 1498.66 | 1499.89 | 1499.94 | 1499.95 |
+    | duration_category | trip_count | percentage | min_minutes | max_minutes | avg_minutes |
+    | :--- | :---: | :---: | :---: | :---: | :---: | 
+    | `Short (1-2 min)` | 107475 | 2.78 | 1.00 | 2.00 | 1.58 |
+    | `Normal (2-120 min)` | 3744745 | 97.00 | 2.00 | 119.99 | 12.51 |
+    | `Long (2-24 hrs)` | 7385 | 0.19 | 120.00 | 1439.30 | 290.02 |
+    | `Very Long (> 24 hr)` | 766 | 0.02 | 1441.06 | 1500.92 | 1498.66 |
 
     **Bad dates**
     >There were no bad dates
