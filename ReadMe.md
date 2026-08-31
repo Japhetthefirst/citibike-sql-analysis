@@ -231,3 +231,7 @@ For the deep dive, I used the power of several key tools:
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
+# Citi Bike Usage Analysis
+
+> **Disclaimer:** This is a hypothetical exercise for portfolio purposes, not affiliated with Lyft or Citi Bike.
