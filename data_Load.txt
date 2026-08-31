@@ -1,0 +1,7 @@
+\COPY citi_bike_trips FROM 'C:\Users\User\that_new_folder\Associate_data_analysts\202604-citibike-tripdata\citibike_tripdata_part1.csv' WITH (FORMAT csv, HEADER true);
+
+\COPY citi_bike_trips FROM 'C:\Users\User\that_new_folder\Associate_data_analysts\202604-citibike-tripdata\citibike_tripdata_part2.csv' WITH (FORMAT csv, HEADER true);
+
+\COPY citi_bike_trips FROM 'C:\Users\User\that_new_folder\Associate_data_analysts\202604-citibike-tripdata\citibike_tripdata_part3.csv' WITH (FORMAT csv, HEADER true);
+
+\COPY citi_bike_trips FROM 'C:\Users\User\that_new_folder\Associate_data_analysts\202604-citibike-tripdata\citibike_tripdata_part4.csv' WITH (FORMAT csv, HEADER true);
