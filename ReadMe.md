@@ -4,7 +4,7 @@
 I found the Citi Bike Dataset and decided to play with some analysis on it.  
 
 ## The Business Problem
-I decided to simulate a problem from the perspective of the Head of Operated Markets -  Dominick Tribone. Yes he is real. He controls regional operations across multiple micro-mobility markets for Lyft, including the overarching strategy for major systems like Citi Bike.
+I decided to simulate a problem from the perspective of the Head of Operated Markets. He controls regional operations across multiple micro-mobility markets for Lyft, including the overarching strategy for major systems like Citi Bike.
 
 > **Disclaimer:** This is a hypothetical exercise for portfolio purposes, not affiliated with Lyft or Citi Bike.
 
