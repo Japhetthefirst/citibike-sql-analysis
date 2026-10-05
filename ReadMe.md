@@ -14,7 +14,7 @@ Failure for him is having stations empty with no bikes to satisfy customers.
 
 - **The bad outcome:** If a dock is empty, riders walk away and Citi Bike loses money. If a dock is full, riders waste time looking for a spot or park e-bikes on the street. This makes riders quit their paid memberships and forces workers to drive vans around all day to fix the mess.
 
-**Dominick Tribone** with the Operations managers in charge of day-to-day execution, now want to tackle this problem- they requested the analysis to be presented in the next end of the month meeting (April alone).
+**The Head of Operated Markets** with the Operations managers in charge of day-to-day execution, now want to tackle this problem- they requested the analysis to be presented in the next end of the month meeting (April alone).
 
 Data hails from: [Citi Bike Trip Histories](https://citibikenyc.com/system-data).
 
